@@ -1,9 +1,9 @@
 # SDM_Project
 This project is part of the BDMA joint project at UPC. THis exploit and benefit from graph-based formalisms as taught
 in SDM classes.
-
-To reproduce the project:
-1)Create a Local DBMS on your Neo4j.
+<br />
+To reproduce the project: <br />
+1)Create a Local DBMS on your Neo4j.  <br />
 2)Add plugins 'APOC' and 'Data Science Library'.
 3)Go to ... -> Open Folder -> Import and paste all the files contained in the "graph_data" folder of this repository.
 4)Start the database.
