@@ -1,5 +1,5 @@
 # SDM_Project
-This project is part of the BDMA joint project at UPC. THis exploit and benefit from graph-based formalisms as taught
+This project is part of the BDMA joint project at UPC. This exploit and benefit from graph-based formalisms as taught
 in SDM classes.
 <br />
 To reproduce the project: <br />
